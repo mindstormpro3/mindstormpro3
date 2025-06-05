@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mindstormpro3
-- 👀 I’m interested in python and flipper zeros
-- 🌱 I’m currently learning c++ and python
+- 👀 I’m interested in python and flipper zeros and playdates now i guess
+- 🌱 I’m currently learning c++ and python and maybe lua
 - 💞️ I’m looking to collaborate on a flipper zero browser system via ESP 32 dev board
 - 📫 How to reach me: elioanon20@gmail.com
 - 😄 Pronouns: he/him
